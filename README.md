@@ -9,6 +9,8 @@ in upper case you must draw a black bar. You don't need to draw the lower case l
 you have to skip narrow or wide bar size ahead. Based on the width of the normal (or wide) 
 bar's width, the narrow bar width must be the third part of that.
 
+If the given string contains any not supported characters, an exception will be thrown.
+
 Requirements
 ============
 
